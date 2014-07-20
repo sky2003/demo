@@ -72,7 +72,7 @@ let cat = "????"; println(cat)
 // 输出 "????"
 
 
-//2014-7-20笔记   今天主要已学校git的用法为主
+//2014-7-20笔记   今天主要已学git的用法为主 主要实现xcode与git的结合配置使用
 /*
 1、配置github账号 xcode->preferences->accounts->(+)add repository 配置github账号
 2、commit->用于提交对文件的修改。
