@@ -70,3 +70,6 @@ println("The current value of friendlyWelcome is \(friendlyWelcome)")
 //分号 ： 与其他大部分编程语言不同，Swift 并不强制要求你在每条语句的结尾处使用分号（;），当然，你也可以按照你自己的习惯添加分号。有一种情况下必须要用分号，即你打算在同一行内写多条独立的语句：
 let cat = "????"; println(cat)
 // 输出 "????"
+
+
+//2014-7-20笔记   今天主要已学校git的用法为主
