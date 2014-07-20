@@ -73,3 +73,11 @@ let cat = "????"; println(cat)
 
 
 //2014-7-20笔记   今天主要已学校git的用法为主
+/*
+1、配置github账号 xcode->preferences->accounts->(+)add repository 配置github账号
+2、commit->用于提交对文件的修改。
+3、push->用于将文件推送到远程服务器
+4、pull->用于从远程服务器上下载代码 -> 如果远程服务器文件内容与本地文件内容不同会自动合并
+5、checkout->用于从远程服务器clone代码
+6、source Control -> 工程分支 -> configure 工程 -> remotes -> (+)add remote添加远程仓库
+*/
