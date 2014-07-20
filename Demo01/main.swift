@@ -27,6 +27,7 @@
     输出常量和变量：可以使用println函数来输出当前常量或变量的值，println是一个用来输出的全局函数，输出的内容会在最后换行。如果你用 Xcode，println将会输出内容到“console”面板上。(另一种函数叫print，唯一区别是在输出内容最后不会换行。)
 */
 
+
 import Foundation
 
 var π = 3.1415926
@@ -50,6 +51,7 @@ let languageName = "Swift"
 println("The current value of friendlyWelcome is \(friendlyWelcome)")
 // 输出 "The current value of friendlyWelcome is Bonjour!
 
+
 //swift语言的注释
 
 //单行注释以双正斜杠作(//)为起始标记:
@@ -69,4 +71,13 @@ println("The current value of friendlyWelcome is \(friendlyWelcome)")
 let cat = "????"; println(cat)
 // 输出 "????"
 
-//2014-7-20笔记   今天主要已学git的用法为主 使用xcode进行git版本控制
+
+//2014-7-20笔记   今天主要已学校git的用法为主
+/*
+1、配置github账号 xcode->preferences->accounts->(+)add repository 配置github账号
+2、commit->用于提交对文件的修改。
+3、push->用于将文件推送到远程服务器
+4、pull->用于从远程服务器上下载代码 -> 如果远程服务器文件内容与本地文件内容不同会自动合并
+5、checkout->用于从远程服务器clone代码
+6、source Control -> 工程分支 -> configure 工程 -> remotes -> (+)add remote添加远程仓库
+*/
