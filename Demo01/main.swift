@@ -27,7 +27,6 @@
     输出常量和变量：可以使用println函数来输出当前常量或变量的值，println是一个用来输出的全局函数，输出的内容会在最后换行。如果你用 Xcode，println将会输出内容到“console”面板上。(另一种函数叫print，唯一区别是在输出内容最后不会换行。)
 */
 
-
 import Foundation
 
 var π = 3.1415926
@@ -51,7 +50,6 @@ let languageName = "Swift"
 println("The current value of friendlyWelcome is \(friendlyWelcome)")
 // 输出 "The current value of friendlyWelcome is Bonjour!
 
-
 //swift语言的注释
 
 //单行注释以双正斜杠作(//)为起始标记:
@@ -70,6 +68,5 @@ println("The current value of friendlyWelcome is \(friendlyWelcome)")
 //分号 ： 与其他大部分编程语言不同，Swift 并不强制要求你在每条语句的结尾处使用分号（;），当然，你也可以按照你自己的习惯添加分号。有一种情况下必须要用分号，即你打算在同一行内写多条独立的语句：
 let cat = "????"; println(cat)
 // 输出 "????"
-
 
 //2014-7-20笔记   今天主要已学git的用法为主 使用xcode进行git版本控制
